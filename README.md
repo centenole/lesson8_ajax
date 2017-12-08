@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(12/7/2017)
 
 ### Student Name:  
-(First and Last Name)
+(Steven Centeno)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I created a website that functions like IMDb by using a API I obtained from an online movie database.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://centenole.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to obtain an API from a website to give myself access to their database. This allows me to display information about any movie the user puts in the search bar.
+2. I learned how to create a search bar.
+3. I learned how to use json to pull information from someone else's database.
